@@ -37,7 +37,7 @@ var biggest = function (a, b) {
 }
 ```
 
-### `js/dom.js`
+ ### `js/dom.js`
 
 In `js/dom.js` write all of your code that will work with the DOM.  For example:
 
@@ -82,7 +82,7 @@ HINT: you can clear the `ul` by setting `innerHTML` to `null`.
 - Users can see a list of names (just wire up the `split`, `appendChild` code...)
 - Users can see a list of first names
 - Users can see a list of last names
-- Users can see a list of names with their lengths in the format ("Joe Smith - 9 ")
+- Users can see a list of names with their lengths in the format ("Joe Smith - 9 ") -->
 
 ## Stretch Goal
 
